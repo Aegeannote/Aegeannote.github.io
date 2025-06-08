@@ -483,6 +483,7 @@ h1, h2, h3, h4, h5, h6 {
 .hero-btn {
   border-color: var(--color-bg-primary);
   color: var(--color-bg-primary);
+  background: var(--color-primary-light);
 }
 .hero-btn:hover {
   background-color: var(--color-bg-primary);
